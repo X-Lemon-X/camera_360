@@ -507,7 +507,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "camera_360.step",
       "svg": "",
       "vrml": ""
     },
