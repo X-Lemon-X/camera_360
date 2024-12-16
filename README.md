@@ -1,3 +1,10 @@
+# 360 camera
+
+## PCB  design
+![PCB](./images/hub.png)
+
+
+
 # CXmara hanfdling
 # list all video devices
 ```bash
