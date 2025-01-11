@@ -16,8 +16,8 @@ SS22,D1,D_SMA,,1
 100n,C2,C_0402_1005Metric,,1
 10n,C14,C_0805_2012Metric,,1
 33k,R15,R_0603_1608Metric,,1
-usb_in,J5,JST_SH_BM05B-SRSS-TB_1x05-1MP_P1.00mm_Vertical,,1
-usb_cam2,J3,PinHeader_1x05_P1.00mm_Vertical,,1
+usb_in,J5,JST_GH_BM05B-GHS-TBT_1x05-1MP_P1.25mm_Vertical,,1
+usb_cam2,J3,JST_GH_BM05B-GHS-TBT_1x05-1MP_P1.25mm_Vertical,,1
 22R,R8,R_0402_1005Metric,,1
 33k,R1,R_0603_1608Metric,,1
 22R,R12,R_0402_1005Metric,,1
@@ -25,7 +25,7 @@ USB_C_Receptacle_USB2.0_14P,J1,USB_C_Receptacle_G-Switch_GT-USB-7010ASV,,1
 100n,C9,C_0402_1005Metric,,1
 22R,R10,R_0402_1005Metric,,1
 100n,C5,C_0402_1005Metric,,1
-usb_cam3,J4,PinHeader_1x05_P1.00mm_Vertical,,1
+usb_cam3,J4,JST_GH_BM05B-GHS-TBT_1x05-1MP_P1.25mm_Vertical,,1
 22R,R7,R_0402_1005Metric,,1
 10u,C6,C_0805_2012Metric,,1
 22R,R11,R_0402_1005Metric,,1
@@ -36,5 +36,5 @@ CH334R,U2,QSOP-16_3.9x4.9mm_P0.635mm,,1
 10u,C4,C_0805_2012Metric,,1
 4k7,R5,R_0402_1005Metric,,1
 12Mhz,Y1,Crystal_SMD_3225-4Pin_3.2x2.5mm,,1
-usb_cam1,J2,PinHeader_1x05_P1.00mm_Vertical,,1
+usb_cam1,J2,JST_GH_BM05B-GHS-TBT_1x05-1MP_P1.25mm_Vertical,,1
 4k7,R6,R_0402_1005Metric,,1
